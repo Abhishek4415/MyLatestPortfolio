@@ -41,9 +41,9 @@ import college from './assets/education_logo/college.png';
 
 // Project Section Logo's
 import canteen from './assets/work_logo/canteen.png';
-import instarecipe from './assets/work_logo/Instarecipe.png';
-import service from './assets/work_logo/serviceOn.png';
-import imagify from './assets/work_logo/Imagify.png';
+import instarecipe from './assets/work_logo/InstaRecipe.png';
+import service from './assets/work_logo/ServiceOn.png';
+import imagify from './assets/work_logo/imagify.png';
 
 
 
