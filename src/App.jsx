@@ -1,15 +1,12 @@
-import { useState } from 'react'
-import React from 'react';        ///import because here jsx is use
-import Navbar from "./components/Navbar/Navbar";
-import About from "./components/About/About";
-import Skills from "./components/Skills/Skills";
-import Experience from "./components/Experience/Experience";
-import Work from "./components/Project/Project";
-import Education from "./components/Education/Education";
-import Contact from "./components/Contact/Contact";
-import Footer from "./components/Footer/Footer";
-import Achievements from "./components/Achievements/Achievements";
-import Certifications from "./components/Certifications/Certifications";
+import Navbar from "./components/navbar/navbar";
+import About from "./components/About/about";
+import Skills from "./components/skills/skills";
+import Experience from "./components/experience/experience";
+import Education from "./components/education/education";
+import Contact from "./components/contact/contact";
+import Footer from "./components/footer/footer";
+import Achievements from "./components/achievements/achievements";
+import Certifications from "./components/certifications/certifications";
 
 import './App.css'
 import Project from './components/Project/Project';
